@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='dui_hua_kuang'
